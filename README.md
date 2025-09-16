@@ -1,96 +1,46 @@
-# Hi, I'm Mohammad Shalabi 👋
+# 👋 Hi, I’m Mohammad Shalabi 
 
-I'm an **AI & Machine Learning Developer** passionate about building intelligent, data-driven, and practical applications.  
-I work with **Python, C++, C, HTML , CSS , JS and modern frameworks** to create impactful projects in software and AI.
+**`AI & Backend Developer (Python / FastAPI / Docker)`**  
+
+I’m a developer passionate about building **AI-powered applications** and deploying them with modern backend tools.  
+My journey started with exploring **C++**, but I found my passion in **Python**, **Machine Learning**, and **FastAPI**.  
+I love turning ideas into real-world projects — from **natural language to SQL systems** to **LLM-based chatbots** — and continuously expanding my skills in backend development and web technologies.  
 
 ---
 
-## 🚀 Skills & Tools
+### 🧰 Languages and Tools  
 
-### 🖥️ Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### ⚡ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<p align="left">
+<img alt="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="FastAPI" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+<img alt="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img alt="Linux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img alt="SQLite" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+<img alt="MySQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="C++" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img alt="HTML" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </p>
 
 ---
 
-## 🌟 Projects
+### 📌 Featured Projects  
 
-### 🧠 AI & Machine Learning
-- [**Chest X-Ray Disease Detection**](https://github.com/your-username/xray-classifier)  
-  Deep learning CNN that classifies chest X-rays as **Normal** or **Pneumonia**, helping in early disease detection.  
-
-- [**Movie Recommendation System**](https://github.com/your-username/movie-recommender)  
-  A recommendation engine that suggests movies using **collaborative filtering** and **similarity metrics**.  
+- 🔍 **Natural Language to SQL** – Transforms plain language questions into SQL queries and returns the exact database answer you want  
+- 🤖 **RepairAI** – AI coding agent that analyzes, debugs, and fixes Python projects automatically  
+- 📖 **RAG Bot** – Retrieval-augmented chatbot for extracting precise answers from long articles  
+- 🛒 **Supermarket System (WIP)** – Qt-based desktop app with SQLite (planning MySQL integration)  
 
 ---
 
-## 🔹 My Other Projects
-Here are some of my top repositories:
+### 📊 Stats  
 
-- [**CodeAgent**](https://github.com/MohammadShalabi1/CodeAgent)  
-  An AI-powered code assistant that analyzes, debugs, and explains code, supporting multiple programming languages.  
-
-- [**WEBANALYZER**](https://github.com/MohammadShalabi1/WEBANALYZER)  
-  A web analysis tool that extracts, processes, and visualizes website data for SEO and performance insights.  
-
-- [**Reservation_Agents**](https://github.com/MohammadShalabi1/Reservation_Agents)  
-  Multi-agent AI system for **restaurant reservations**, handling customer queries and updating reservations automatically.  
-
-- [**RetailData-Pro**](https://github.com/MohammadShalabi1/RetailData-Pro)  
-  A retail analytics project that processes sales data, identifies trends, and provides insights to improve decision-making.  
+![Ali Jaffal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alii-Jaffal&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alii-Jaffal&layout=compact&theme=tokyonight)  
 
 ---
 
-### 💻 Desktop Applications (C++ / Qt)
-- [**Inventory Management System (Qt C++)**](https://github.com/your-username/inventory-system)  
-  Full CRUD desktop application with **SQLite** database and professional GUI.  
-
-- [**Flappy Bird in Qt C++**](https://github.com/your-username/flappy-bird) *(Work in Progress)*  
-  Classic Flappy Bird game implemented with **Qt**, no external game engine.  
-
----
-
-### 🌐 Web Applications
-- [**Life Organizer Website**](https://github.com/your-username/life-organizer)  
-  A web app with an AI life coach to help manage tasks, finances, and personal growth.  
-
-- [**Reservation Agent (Flask + AI)**](https://github.com/your-username/reservation-agent)  
-  An AI-powered reservation assistant integrated with a restaurant booking system.  
-
----
-
-
-
-## 🎯 Current Focus
-- Advancing in **Deep Learning & Computer Vision**.  
-- Building more **AI-powered applications** (web + desktop).  
-- Exploring **hybrid AI + C++/Qt** solutions.  
-
----
-
-## 📫 Connect With Me
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mohammad-shalabi-328600378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-
----
+✨ *Always learning, always building.*  
