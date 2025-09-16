@@ -64,14 +64,7 @@ I work with **Python, C++, C, HTML , CSS , JS and modern frameworks** to create 
 
 ---
 
-### 🤖 Robotics & Embedded Systems
-- [**Autonomous Firefighting Robot**](https://github.com/your-username/firefighting-robot)  
-  A self-driving robot that detects fire, avoids obstacles, and moves toward the hazard using **Arduino, Bluetooth, and sensors**.  
 
-- [**Smart Memory Game (Arduino)**](https://github.com/your-username/memory-game)  
-  A game using push buttons, LEDs, and a buzzer to test memory sequences.  
-
----
 
 ## 🎯 Current Focus
 - Advancing in **Deep Learning & Computer Vision**.  
@@ -81,13 +74,6 @@ I work with **Python, C++, C, HTML , CSS , JS and modern frameworks** to create 
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- ✉️ Email: **your.email@example.com**  
-- 🌐 [Portfolio Website](https://yourwebsite.com)  
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/mohammad-shalabi-328600378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 
 ---
-
-⭐️ From [Sw1 Aliswi](https://github.com/Sw1Aliswi)
-
----
-
