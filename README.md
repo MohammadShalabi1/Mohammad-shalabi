@@ -63,14 +63,7 @@ Here are some of my top repositories:
 
 ---
 
-### 💻 Desktop Applications (C++ / Qt)
-- [**Inventory Management System (Qt C++)**](https://github.com/your-username/inventory-system)  
-  Full CRUD desktop application with **SQLite** database and professional GUI.  
 
-- [**Flappy Bird in Qt C++**](https://github.com/your-username/flappy-bird) *(Work in Progress)*  
-  Classic Flappy Bird game implemented with **Qt**, no external game engine.  
-
----
 
 ### 🌐 Web Applications
 - [**Life Organizer Website**](https://github.com/your-username/life-organizer)  
