@@ -39,10 +39,27 @@ I work with **Python, C++, C, HTML , CSS , JS and modern frameworks** to create 
 
 ### 🧠 AI & Machine Learning
 - [**Chest X-Ray Disease Detection**](https://github.com/your-username/xray-classifier)  
-  Deep learning CNN that classifies chest X-rays as **Normal** or **Pneumonia**.  
+  Deep learning CNN that classifies chest X-rays as **Normal** or **Pneumonia**, helping in early disease detection.  
 
 - [**Movie Recommendation System**](https://github.com/your-username/movie-recommender)  
-  A system that suggests movies based on user preferences and similarity metrics.  
+  A recommendation engine that suggests movies using **collaborative filtering** and **similarity metrics**.  
+
+---
+
+## 🔹 My Other Projects
+Here are some of my top repositories:
+
+- [**CodeAgent**](https://github.com/MohammadShalabi1/CodeAgent)  
+  An AI-powered code assistant that analyzes, debugs, and explains code, supporting multiple programming languages.  
+
+- [**WEBANALYZER**](https://github.com/MohammadShalabi1/WEBANALYZER)  
+  A web analysis tool that extracts, processes, and visualizes website data for SEO and performance insights.  
+
+- [**Reservation_Agents**](https://github.com/MohammadShalabi1/Reservation_Agents)  
+  Multi-agent AI system for **restaurant reservations**, handling customer queries and updating reservations automatically.  
+
+- [**RetailData-Pro**](https://github.com/MohammadShalabi1/RetailData-Pro)  
+  A retail analytics project that processes sales data, identifies trends, and provides insights to improve decision-making.  
 
 ---
 
